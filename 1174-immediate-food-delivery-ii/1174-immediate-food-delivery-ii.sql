@@ -6,4 +6,4 @@ WITH f_order AS(
     GROUP BY customer_id
 )
 SELECT ROUND(AVG(CASE WHEN f_order_d = f_delivery_d THEN 1 ELSE 0 END)*100,2) AS immediate_percentage
-FROM f_order
+FROM f_order ;
