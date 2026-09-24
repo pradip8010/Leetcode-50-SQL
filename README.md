@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0197-rising-temperature](https://github.com/pradip8010/Leetcode-50-SQL/tree/master/0197-rising-temperature) |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/pradip8010/Leetcode-50-SQL/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0577-employee-bonus](https://github.com/pradip8010/Leetcode-50-SQL/tree/master/0577-employee-bonus) |
+| [1070-product-sales-analysis-iii](https://github.com/pradip8010/Leetcode-50-SQL/tree/master/1070-product-sales-analysis-iii) |
 | [1075-project-employees-i](https://github.com/pradip8010/Leetcode-50-SQL/tree/master/1075-project-employees-i) |
 | [1174-immediate-food-delivery-ii](https://github.com/pradip8010/Leetcode-50-SQL/tree/master/1174-immediate-food-delivery-ii) |
 | [1193-monthly-transactions-i](https://github.com/pradip8010/Leetcode-50-SQL/tree/master/1193-monthly-transactions-i) |
